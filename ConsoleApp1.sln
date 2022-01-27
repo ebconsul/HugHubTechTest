@@ -7,15 +7,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{84765652-0D2
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{2B7167F2-0131-4C82-A72B-7285EB51FEC2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quotation.Application", "..\Quotation.Application\Quotation.Application.csproj", "{D7D2CF58-D1A6-4BCA-A76E-6D080835912A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quotation.Application", "Quotation.Application\Quotation.Application.csproj", "{D7D2CF58-D1A6-4BCA-A76E-6D080835912A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quotation.Domain", "..\Quotation.Domain\Quotation.Domain.csproj", "{46DB9601-D85B-4EBF-91E4-FFA3379BB189}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quotation.Domain", "Quotation.Domain\Quotation.Domain.csproj", "{46DB9601-D85B-4EBF-91E4-FFA3379BB189}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quotation.Domain.Tests", "..\Quotation.Domain.Tests\Quotation.Domain.Tests.csproj", "{CC333970-464B-4BA9-9C97-A09427952D2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quotation.Domain.Tests", "Quotation.Domain.Tests\Quotation.Domain.Tests.csproj", "{CC333970-464B-4BA9-9C97-A09427952D2E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quotation.Application.Tests", "..\Quotation.Application.Tests\Quotation.Application.Tests.csproj", "{3CC543B3-F5C4-4C55-8907-E9FFC4C80347}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quotation.Application.Tests", "Quotation.Application.Tests\Quotation.Application.Tests.csproj", "{3CC543B3-F5C4-4C55-8907-E9FFC4C80347}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quotation.App", "..\Quotation.App2\Quotation.App.csproj", "{42B80561-EB36-44C4-BDD9-50F83C48D0D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quotation.App", "Quotation.App\Quotation.App.csproj", "{42B80561-EB36-44C4-BDD9-50F83C48D0D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
